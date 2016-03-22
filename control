@@ -1,0 +1,9 @@
+Package: com.feng-zee.removenosimalert
+Name: removenosimalert
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: feng-zee
+Author: feng-zee
+Section: Tweaks
